@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Structure" Database="" Version="10000">
-  <Project Name="ModifiedProgram" Path="ModifiedProgram/ModifiedProgram.project" Active="Yes"/>
+  <Project Name="ModifiedProgram" Path="ModifiedProgram/ModifiedProgram.project" Active="No"/>
+  <Project Name="Comments" Path="Comments/Comments.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="ModifiedProgram" ConfigName="Debug"/>
+      <Project Name="Comments" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="ModifiedProgram" ConfigName="Release"/>
+      <Project Name="Comments" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
