@@ -39,6 +39,10 @@ _ Examples.
 
 * elif
 
+* else
+
+* endif
+
 # Comments
 
  Comments are programmer readable explanations in the source code.
@@ -67,6 +71,4 @@ You can leave comments in the code explaining what you did and
 
 why you did. 
 
-* else
 
-* endif
