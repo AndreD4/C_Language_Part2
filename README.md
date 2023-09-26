@@ -39,6 +39,34 @@ _ Examples.
 
 * elif
 
+# Comments
+
+ Comments are programmer readable explanations in the source code.
+
+Explanations, notes, annotations,
+
+anything that adds meaning to what the program is doing.
+
+One thing that's very important to understand is that
+
+the comments never make it to the compiler.
+
+In c++, the preprocessor strips out the comments so that the
+
+compiler never sees them.
+
+It may sound kind of weird right we're writing something that the compiler is never going to see.
+
+That's the whole point. This is human readable.
+
+This is for the next programmer that's coming down the pipe or
+
+for yourself when you have to go back and modify code.
+
+You can leave comments in the code explaining what you did and
+
+why you did. 
+
 * else
 
 * endif
