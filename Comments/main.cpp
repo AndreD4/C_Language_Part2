@@ -1,6 +1,13 @@
 #include <iostream>
 
-//this is a commment   
+//this is a commment 
+
+/* everything between those two elements is a comment and will be ignored. */  
+
+/* this is a 
+     multiple 
+       Line comment
+*/
 
 int main()
 {
