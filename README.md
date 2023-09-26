@@ -71,4 +71,38 @@ You can leave comments in the code explaining what you did and
 
 why you did. 
 
+# The main() function
+
+* Every C++ program must have exactly 1 main () function
+
+* Start point of program execution
+
+* return 0 indicates successful program execution
+
+* 2 versions that are both valid
+  
+
+Every c++ program must have exactly one main function somewhere.
+
+A c++ program can consist of hundreds of files,
+
+but one of those files must contain the main function.
+
+Note that the name main must be written in lowercase letters.
+
+When a c++ program executes,
+
+the main function is called by the operating system,
+
+and the code between the curly braces executes.
+
+When execution hits the return statement,
+
+the program returns the integer value to the operating system.
+
+If the return value is zero, then the program terminated successfully.
+
+If the return value is not zero,
+
+then the operating system can check the value returned and determine what went wrong.
 
