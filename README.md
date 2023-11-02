@@ -159,17 +159,17 @@ endline and so forth. So c++ provides a few mechanisms to help in that regard.
 
 
 
-using namespace std;     // use the entire std namespace
+    using namespace std;     // use the entire std namespace
 
-int main()
+    int main()
 
-{
+      {
 
-  int fav_number;
+      int fav_number;
   
-  cout << "Enter fave number" << endl;
+       cout << "Enter fave number" << endl;
   
-  return 0;
+     return 0;
   
-}
+    }
 
