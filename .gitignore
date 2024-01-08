@@ -33,3 +33,4 @@
 .cache/clangd/index/main.cpp.3DFC961589D18A88.idx
 Makefile
 Structure.workspace
+compile_commands.json
